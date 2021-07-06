@@ -21,7 +21,7 @@ Says the [wikipedia](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 
 <h1>Terraform</h1>
 
-The reason why I have chosen Terraform is relatively easy: based on my previous knowledge about technologies and tools I though I should learn Terraform next.
+The reason why I have chosen Terraform is relatively easy: based on my previous knowledge about technologies and tools I thought I should learn Terraform next.
 So far so good. It's unbelievably easy to learn. Just need to start and don't stop. *(ha-ha)*
 But using it for smaller things such as build an infrastructure in AWS is really so easy. There's a nice tutorial on their official website as well as
 many more beneficial materials.
