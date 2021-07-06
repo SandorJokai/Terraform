@@ -14,8 +14,8 @@ Terraform is one of the most popular these days. The reason why could be the fol
 - independent from OS versions
 
 But what exactly Infrastructure as a code is? \
-Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical
-hardware configuration or interactive configuration tools.\
+*Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical
+hardware configuration or interactive configuration tools.*
 
 Says the [wikipedia](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 
